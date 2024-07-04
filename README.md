@@ -33,6 +33,7 @@
 
 
 **Database Setup**
+
  1.Start XAMPP:
 
   ->Open the XAMPP control panel.
@@ -55,6 +56,7 @@
   ->Click "Go" to import the data into the database.
 
 **Usage**
+
 Access the Project:
 
 Open your browser and navigate to http://localhost:3000 to access the project.
