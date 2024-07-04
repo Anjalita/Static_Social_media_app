@@ -1,4 +1,5 @@
-![Screenshot 2024-07-03 210911](https://github.com/Anjalita/Static_Social_media_app/assets/96990535/fa1303f1-007f-41ff-90b7-e8d9e9b72f58)**Static_Social_media_app**
+**Static_Social_media_app**
+
  This project is a ReactJS-based static social media platform where users can interact with posts through likes, comments, and shares. It showcases a component-based architecture for scalability and clean design, providing an intuitive user experience.
 
 **Installation**
@@ -58,3 +59,6 @@ Access the Project:
 
 Open your browser and navigate to http://localhost:3000 to access the project.
 
+
+
+![Screenshot 2024-07-03 210911](https://github.com/Anjalita/Static_Social_media_app/assets/96990535/fa1303f1-007f-41ff-90b7-e8d9e9b72f58)
