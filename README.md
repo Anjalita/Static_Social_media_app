@@ -63,10 +63,7 @@ Open your browser and navigate to http://localhost:3000 to access the project.
 
 
 
-![image](https://github.com/Anjalita/Static_Social_media_app/assets/96990535/a906cff3-ab1c-4d6b-a001-2e0a0fc4563b)
-
-
-![image](https://github.com/Anjalita/Static_Social_media_app/assets/96990535/6e20e2bf-f5d1-4053-a33c-dfe3c1c08fdb)
+![image](https://github.com/Anjalita/Static_Social_media_app/assets/96990535/a906cff3-ab1c-4d6b-a001-2e0a0fc4563b)              ![image](https://github.com/Anjalita/Static_Social_media_app/assets/96990535/6e20e2bf-f5d1-4053-a33c-dfe3c1c08fdb)
 
 
 ![Screenshot 2024-07-03 210911](https://github.com/Anjalita/Static_Social_media_app/assets/96990535/fa1303f1-007f-41ff-90b7-e8d9e9b72f58)
